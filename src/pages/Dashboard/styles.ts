@@ -88,6 +88,7 @@ export const Food = styled.TouchableOpacity`
   background: #f0f0f5;
   border-radius: 8px;
   margin-bottom: 16px;
+  min-height: 100px;
 `;
 
 export const FoodImageContainer = styled.View`
